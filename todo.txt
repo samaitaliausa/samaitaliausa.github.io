@@ -1,0 +1,2 @@
+1- create a python script that takes in a list of image file names a outputs html
+in this format
